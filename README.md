@@ -8,12 +8,8 @@ Learn JavaScript step by step and document my progress.
 
 ## Contents
 
-- JavaScript basics
-- Variables
-- Strings and methods
-- Functions
-- Arrays
-- Objects
+- [JavaScript Introduction](01-introduction-javascript.md)
+- [Strings and Methods](02-strings-and-methods.md)
 
 ## Progress
 
