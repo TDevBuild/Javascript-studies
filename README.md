@@ -10,6 +10,8 @@ Learn JavaScript step by step and document my progress.
 
 - [JavaScript Introduction](01-introduction-javascript.md)
 - [Strings and Methods](02-strings-and-methods.md)
+- [Numbers, Operators and Conditionals](03-numbers-operators-and-conditionals.md)
+- [Unary and Bitwise Operators](04-unary-and-bitwise-operators.md)
 
 ## Progress
 
